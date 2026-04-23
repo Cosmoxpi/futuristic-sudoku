@@ -2,19 +2,6 @@
 
 **Neon Sudoku App** is a modern cyberpunk-inspired Sudoku game built with **React**, **TypeScript**, **Vite**, and **Tailwind CSS**. It delivers a fast, polished, and enjoyable puzzle experience with glowing visuals, smooth interactions, difficulty levels, hints, undo/redo controls, sound effects, and local high-score tracking.
 
----
-
-## 📸 Screenshots
-
-### Landing Page
-
-![Neon Sudoku Landing Page](./screenshots/landing.png)
-
-### Game Board
-
-![Neon Sudoku Game Board](./screenshots/game-board.png)
-
----
 
 ## ✨ Features
 
